@@ -1,4 +1,4 @@
-## Hey there, I'm Sanjeet. Used to work as Embeded Systems Engineer, decided to change field and started learning MERN stack. 
+## Hey there, I'm Sanjeet. Used to work as Embedded Systems Engineer, decided to change field and started learning MERN stack. 
 
 
 ## Relevant Projects are as follows:
