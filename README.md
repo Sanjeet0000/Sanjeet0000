@@ -13,5 +13,5 @@
 ### [Digital Clock with reminders using HTML, CSS and Javascript](https://sanjeet0000.github.io/digital_clock/)
 
 
-### [Webpage made using only HTML for everthing](https://sanjeet0000.github.io/Backtracking-Project-by-Sanjeet/)
+### [Webpage made using only HTML for everything](https://sanjeet0000.github.io/Backtracking-Project-by-Sanjeet/)
 
