@@ -19,5 +19,5 @@
 ### [Expense tracker using React](https://expenses-tracker00.netlify.app/)
 
 
-### [Webpage made using only HTML for everything](https://sanjeet0000.github.io/Backtracking-Project-by-Sanjeet/)
+### [Webpage made using HTML for styling](https://sanjeet0000.github.io/Backtracking-Project-by-Sanjeet/)
 
