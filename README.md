@@ -7,7 +7,10 @@
 ### [Food Ordering website using React.Js](https://food0000.netlify.app/)
 
 
-### [E-commerce website using React.Js and some Bootstrap](https://steady-jelly-24109c.netlify.app/)
+### [E-commerce website using React.Js, Redux, Bootstrap](https://steady-jelly-24109c.netlify.app/)
+
+
+### [Zomato clone using React.Js](https://zomato-clone0.netlify.app/)
 
 
 ### [A Blog website using React.Js, backend hosted at Render for MongoDB database](https://jocular-lebkuchen-0b0fb5.netlify.app/)
